@@ -1,6 +1,6 @@
 #Domain Detector
 
-![image2](https://github.com/asrith-reddy/Phishing-detector/assets/76733972/da226de9-dfe6-4f0c-a8bc-b92d4cc08e53)
+![image2](https://github.com/PendurthiJyothsna/DOMAIN-DETECTOR/blob/main/static/assets/img/Phishing.gif)
 
 
 
